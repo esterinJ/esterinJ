@@ -19,5 +19,5 @@ I am pursuing a [Master's Degree in International Politics and Economics](https:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Hozint - Horizon Intelligence](https://www.hozint.com/) as Threat Intelligence Analyst
+- 🔭 I’m currently working at Accenture as Technology Consultant
 - 🌱 I’m currently learning _Machine Learning techinques_ and its application on International Relations research
