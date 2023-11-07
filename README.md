@@ -6,11 +6,6 @@ I am pursuing a [Master's Degree in International Politics and Economics](https:
 - Cyberdiplomacy and EU policies 
 - AI & Security application
 
-😄 **I am open to**:
-
-- collaboration opportunities (anytime & anywhere & any type) and 
-- research internships (open for Summer/Fall 2023)
-
 📫 **Contact me by**:
 - Email (esterinkojtari [AT] gmail.com)
 - [Twitter](https://twitter.com/yzhao062)
